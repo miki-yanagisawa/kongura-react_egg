@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kongura-react_egg/static/css/main.ee8cd4f1.chunk.css",
+    "main.js": "/kongura-react_egg/static/js/main.f96863c2.chunk.js",
+    "main.js.map": "/kongura-react_egg/static/js/main.f96863c2.chunk.js.map",
+    "runtime-main.js": "/kongura-react_egg/static/js/runtime-main.3d29e902.js",
+    "runtime-main.js.map": "/kongura-react_egg/static/js/runtime-main.3d29e902.js.map",
+    "static/js/2.52c65d4d.chunk.js": "/kongura-react_egg/static/js/2.52c65d4d.chunk.js",
+    "static/js/2.52c65d4d.chunk.js.map": "/kongura-react_egg/static/js/2.52c65d4d.chunk.js.map",
+    "static/js/3.63402147.chunk.js": "/kongura-react_egg/static/js/3.63402147.chunk.js",
+    "static/js/3.63402147.chunk.js.map": "/kongura-react_egg/static/js/3.63402147.chunk.js.map",
+    "index.html": "/kongura-react_egg/index.html",
+    "static/css/main.ee8cd4f1.chunk.css.map": "/kongura-react_egg/static/css/main.ee8cd4f1.chunk.css.map",
+    "static/js/2.52c65d4d.chunk.js.LICENSE.txt": "/kongura-react_egg/static/js/2.52c65d4d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kongura-react_egg/static/media/kyoryu.096f26a3.png",
+    "static/media/logo.6ce24c58.svg": "/kongura-react_egg/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d29e902.js",
+    "static/js/2.52c65d4d.chunk.js",
+    "static/css/main.ee8cd4f1.chunk.css",
+    "static/js/main.f96863c2.chunk.js"
+  ]
+}
