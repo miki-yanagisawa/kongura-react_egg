@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page snapshot testing 1`] = `
+<div
+  className="egg_wrapper"
+>
+  <h1
+    className="egg_count"
+  >
+    0
+  </h1>
+  <button
+    className="egg_btn white"
+    onClick={[Function]}
+  />
+</div>
+`;
